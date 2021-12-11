@@ -11,8 +11,8 @@ int main (){
 	string tanggal_transaksi;
 	string bulan_transaksi;
 	int tahun_transaksi;
-	float jumlah_uang; 
-	float harga_perbitcoin;
+	double jumlah_uang; 
+	double harga_perbitcoin;
 	
      //input//
     cout<<"--------------------TRANSAKSI MATA UANG CRYPTOCURRENCY------------------------\n"<<endl;
