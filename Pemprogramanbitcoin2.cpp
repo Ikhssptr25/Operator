@@ -11,7 +11,7 @@ int main (){
 	string tanggal_transaksi;
 	string bulan_transaksi;
 	int tahun_transaksi;
-	double jumlah_uang; 
+	float jumlah_uang; 
 	double harga_perbitcoin;
 	
      //input//
