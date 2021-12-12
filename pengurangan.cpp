@@ -9,8 +9,8 @@ int main (){
 	  
    	 // deklarasi variabel//
 	
-	float x; 
-	float y;
+	double x; 
+	double y;
 	float z;
 	
      //input//
