@@ -9,9 +9,9 @@ int main (){
 	  
    	 // deklarasi variabel//
 	
-	double x; 
-	double y;
-	double z;
+	int x; 
+	int y;
+	int z;
 	
      //input//
 	cin>>x;
