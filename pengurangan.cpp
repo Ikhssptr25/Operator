@@ -11,7 +11,7 @@ int main (){
 	
 	double x; 
 	double y;
-	float z;
+	double z;
 	
      //input//
 	cin>>x;
