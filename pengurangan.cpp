@@ -9,7 +9,7 @@ int main (){
 	  
    	 // deklarasi variabel//
 	
-	double x; 
+	float x; 
 	double y;
 	double z;
 	
