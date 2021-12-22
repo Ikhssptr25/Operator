@@ -18,7 +18,7 @@ int main (){
 	cin>>y;
 	
 	//MESIN
-	z=x+y;
+	z=x/y;
 	
 	 //output//
 	cout<<endl;
