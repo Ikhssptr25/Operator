@@ -9,16 +9,16 @@ int main (){
 	  
    	 // deklarasi variabel//
 	
-	double x; 
-	double y;
-	double z;
+	double a; 
+	double b;
+	double c;
 	
      //input//
-	cin>>x;
-	cin>>y;
+	cin>>a;
+	cin>>b;
 	
 	//MESIN
-	z=x/y;
+	c=a/b;
 	
 	 //output//
 	cout<<endl;
