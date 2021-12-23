@@ -9,7 +9,7 @@ int main (){
 	  
    	 // deklarasi variabel//
 	string tanggal_transaksi;
-	string bulan_transaksi;
+	int bulan_transaksi;
 	int tahun_transaksi;
 	double jumlah_uang; 
 	float harga_perbitcoin;
