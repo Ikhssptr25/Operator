@@ -8,7 +8,7 @@ int main (){
 	  kelas B*/
 	  
    	 // deklarasi variabel//
-	double jumlah_bitcoin_dibeli;
+	float jumlah_bitcoin_dibeli;
 	double harga_pembelian;
 	double harga_saatini;
 	double x; 
