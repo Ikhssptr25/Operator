@@ -11,8 +11,8 @@ int main (){
 	float jumlah_bitcoin_dibeli;
 	float harga_pembelian;
 	float harga_saatini;
-	double x; 
-	double y;
+	float x; 
+	float y;
 	
      //input//
 	cout<<"Jumlah Bitcoin yang dibeli :"     ;cin>>jumlah_bitcoin_dibeli;
