@@ -28,6 +28,7 @@ int main (){
 	cout<<"------------------------RIWAYAT MATA UANG CRYPTOCURRENCY-------------------------\n"<<endl;
 	cout<<"Tanggal transaksi :"<< tanggal_transaksi <<" "<<bulan_transaksi<<" "<<tahun_transaksi<<endl;
 	cout<<"jumlah bitcoin    :"<< jumlah_uang/harga_perbitcoin <<" "<<"bitcoin"<<endl;
+	cout<<"---------------------------------------------------------------------------------\n"<<endl;
 	
 	return 0;
 }
