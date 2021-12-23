@@ -10,7 +10,7 @@ int main (){
    	 // deklarasi variabel//
 	float jumlah_bitcoin_dibeli;
 	float harga_pembelian;
-	double harga_saatini;
+	float harga_saatini;
 	double x; 
 	double y;
 	
